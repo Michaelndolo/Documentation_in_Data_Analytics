@@ -111,3 +111,11 @@ I had to remove all zero values from the budget and revenue columns because they
 |Heading1|Heading2|Heading3|
 |--------|--------|--------|
 |Content1|Content2|Content3|
+
+**Bold**
+
+*Italic*
+
+`SELECT *
+FROM Column_1`
+
